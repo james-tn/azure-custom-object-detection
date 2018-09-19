@@ -29,4 +29,6 @@ Overview of steps:
 Run training with different params and choose the best performing model
 5. Deployment
 Deploy to ACI or AKS. Batch deployment for batch scoring coming later
+
+
 Copyrights: Caution do not share data and trained model outside Microsoft. The model is trained based on customer provided data
